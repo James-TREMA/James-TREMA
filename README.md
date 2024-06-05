@@ -3,18 +3,24 @@
 Je m'appelle James et je suis un développeur passionné par la technologie et l'innovation. Voici quelques informations à propos de moi et de mes projets.
 
 ## 📈 Statistiques GitHub
-![Les statistiques GitHub de James](https://github-readme-stats.vercel.app/api?username=James-TREMA&show_icons=true&theme=radical)
+![Les statistiques GitHub de James](https://github-readme-stats.vercel.app/api?username=James-TREMA&show_icons=true&theme=white)
 
 ## 🌱 Mes projets
-- [Projet 1](https://github.com/James-TREMA/Projet1) - Description de votre projet 1.
-- [Projet 2](https://github.com/James-TREMA/Projet2) - Description de votre projet 2.
+- [BotAngular](https://github.com/James-TREMA/BotAngular) - Bot principal de la boutique Ahero.FiveM-Shop pour GTAV.
+- [AheroShopFiveM_Base_Free](https://github.com/James-TREMA/AheroShopFiveM_Base_Free) - Base avec les pré-requis pour les serveurs FiveM.
+- [Server-Data-AFS](https://github.com/James-TREMA/server-data) - Base destinée à la création de scripts pour mes clients.
 
-## 💼 Expérience professionnelle
-- **Entreprise 1** (Dates) - Rôle et responsabilités.
-- **Entreprise 2** (Dates) - Rôle et responsabilités.
+## 🛠 Compétences
+- **Langages de programmation** : SQL, JavaScript, Java, LUA, HTML, CSS
+- **Frameworks et bibliothèques** : React, Node.js, Django, Spring, FiveM-ESX
+- **Outils et plateformes** : Git, Docker, DBeaver
+
+## 💼 Activité actuelle
+- **Ahero.FiveM-Shop[GTAV]** (depuis le 16/12/2021) - Propriétaire.
+  - Boutique de vente de scripts et de services pour FiveM.
 
 ## 📫 Me contacter
-- Email : [votre.email@example.com](mailto:votre.email@example.com)
-- LinkedIn : [Votre LinkedIn](https://www.linkedin.com/in/votreprofil)
+- Pseudo Discord : [_ahero](_ahero)
+- Discord Boutique FiveM : [Ahero.FiveM-Shop](https://discord.gg/nvKs7x69wr)
 
 Merci de visiter mon profil GitHub !
