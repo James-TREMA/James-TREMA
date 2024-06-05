@@ -10,7 +10,7 @@ Je m'appelle James et je suis un développeur passionné par la technologie et l
 ![Les statistiques GitHub de James](https://github-readme-stats.vercel.app/api?username=James-TREMA&show_icons=true&theme=white)
 
 ## 🌱 Mes projets
-- [BotAngular](https://github.com/James-TREMA/BotAngular) - Bot principal de la boutique Ahero.FiveM-Shop pour GTAV.
+- [BotAngular](https://github.com/James-TREMA/BotAngular) - Bot principal de la boutique Ahero.FiveM-Shop-GTAV.
 - [AheroShopFiveM_Base_Free](https://github.com/James-TREMA/AheroShopFiveM_Base_Free) - Base avec les pré-requis pour les serveurs FiveM.
 - [Server-Data-AFS](https://github.com/James-TREMA/server-data) - Base destinée à la création de scripts pour mes clients.
 
