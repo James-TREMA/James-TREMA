@@ -2,7 +2,7 @@
 
 Je m'appelle James et je suis un développeur passionné par la technologie et l'innovation. Voici quelques informations à propos de moi et de mes projets.
 
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=James-TREMA.visitor)
+![Profil views](https://komarev.com/ghpvc/?username=James-TREMA)
 
 ## 📈 Statistiques GitHub
 ![Les statistiques GitHub de James](https://github-readme-stats.vercel.app/api?username=James-TREMA&show_icons=true&theme=white)
