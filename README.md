@@ -2,7 +2,7 @@
 
 Je m'appelle James et je suis un développeur passionné par la technologie et l'innovation. Voici quelques informations à propos de moi et de mes projets.
 
-![Visiteurs](https://img.shields.io/badge/dynamic/json?color=green&label=visiteurs&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FJames-TREMA%2Fvisitors)
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=James-TREMA.visiteurs)
 
 ## 📈 Statistiques GitHub
 ![Les statistiques GitHub de James](https://github-readme-stats.vercel.app/api?username=James-TREMA&show_icons=true&theme=white)
