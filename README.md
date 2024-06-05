@@ -4,9 +4,7 @@ Je m'appelle James et je suis un développeur passionné par la technologie et l
 
 ![Profil views](https://komarev.com/ghpvc/?username=James-TREMA)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=James-TREMA&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=James-TREMA&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=James-TREMA&layout=compact&theme=radical) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=James-TREMA&theme=radical)
 
 ![GitHub followers](https://img.shields.io/github/followers/James-TREMA?label=Followers&style=social)
 
