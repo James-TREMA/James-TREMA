@@ -16,8 +16,8 @@ Je m'appelle James et je suis un développeur passionné par la technologie et l
 
 ## 🛠 Compétences
 - **Langages de programmation** : SQL, JavaScript, Java, LUA, HTML, CSS
-- **Frameworks et bibliothèques** : React, Node.js, Django, Spring, FiveM-ESX
-- **Outils et plateformes** : Git, Docker, DBeaver
+- **Frameworks et bibliothèques** : React, Node.js, Django, Spring, FiveM-ESX(RageUI, OX, etc..)
+- **Outils et plateformes** : Git, Docker, DBeaver, VScode
 
 ## 💼 Activité actuelle
 - **Ahero.FiveM-Shop[GTAV]** (depuis le 16/12/2021) - Propriétaire.
