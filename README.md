@@ -70,6 +70,5 @@ Je ne suis pas ici pour suivre la tendance. Je suis là pour **innover**, repous
 ## **📊 Badges de profil**  
 ![GitHub followers](https://img.shields.io/github/followers/James-TREMA?label=Followers&style=for-the-badge)  
 ![GitHub stars](https://img.shields.io/github/stars/James-TREMA?label=Stars&style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/James-TREMA?label=Forks&style=for-the-badge)  
 
 ---
