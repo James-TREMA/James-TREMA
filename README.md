@@ -71,7 +71,7 @@ Je reste constamment à jour avec les dernières technologies et meilleures prat
 ## **📫 Me contacter**
 
 - Discord : [_ahero](_ahero)
-- 🏪 [Boutique Ahero.FiveM-Shop](https://discord.gg/nvKs7x69wr)
+- 🏪 [Boutique Ahero.FiveM-Shop](https://discord.gg/EJUhD8e8MY)
 - 📖 [Documentation](https://ahero-fivem-shop.gitbook.io/ahero.fivem-shop-gtav)
 
 ## **📊 Mes statistiques**
